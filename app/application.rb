@@ -15,5 +15,4 @@ class Application
 
     resp.finish
   end
-
-end
+end # Application 
